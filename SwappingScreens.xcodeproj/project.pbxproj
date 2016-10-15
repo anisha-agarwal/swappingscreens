@@ -13,6 +13,7 @@
 		74CB2D871DB1B56000A78271 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74CB2D861DB1B56000A78271 /* Assets.xcassets */; };
 		74CB2D8A1DB1B56000A78271 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74CB2D881DB1B56000A78271 /* LaunchScreen.storyboard */; };
 		74CB2D981DB2C11800A78271 /* MusicListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CB2D971DB2C11800A78271 /* MusicListViewController.swift */; };
+		74CB2D9A1DB2C35300A78271 /* PlaySongViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CB2D991DB2C35300A78271 /* PlaySongViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		74CB2D891DB1B56000A78271 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74CB2D8B1DB1B56000A78271 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74CB2D971DB2C11800A78271 /* MusicListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicListViewController.swift; sourceTree = "<group>"; };
+		74CB2D991DB2C35300A78271 /* PlaySongViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySongViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				74CB2D7F1DB1B56000A78271 /* AppDelegate.swift */,
 				74CB2D811DB1B56000A78271 /* LoginViewController.swift */,
 				74CB2D831DB1B56000A78271 /* Main.storyboard */,
+				74CB2D991DB2C35300A78271 /* PlaySongViewController.swift */,
 				74CB2D971DB2C11800A78271 /* MusicListViewController.swift */,
 				74CB2D861DB1B56000A78271 /* Assets.xcassets */,
 				74CB2D881DB1B56000A78271 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				74CB2D821DB1B56000A78271 /* LoginViewController.swift in Sources */,
 				74CB2D801DB1B56000A78271 /* AppDelegate.swift in Sources */,
 				74CB2D981DB2C11800A78271 /* MusicListViewController.swift in Sources */,
+				74CB2D9A1DB2C35300A78271 /* PlaySongViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
